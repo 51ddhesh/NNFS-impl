@@ -134,6 +134,8 @@ $$ c_1 = \begin{bmatrix} b_{11} & b_{21} & b_{31} & b_{41}\end{bmatrix}_{1\times
 $$ c_2 = \begin{bmatrix} b_{12} & b_{22} & b_{32} & b_{42}   \end{bmatrix}_{1\times3} $$
 $$ c_3 = \begin{bmatrix} b_{13} & b_{23} & b_{33} & b_{43} \end{bmatrix}_{1\times3} $$
 Then, 
-$$ a\cdot b = \begin{bmatrix} r_1\cdot c_1 & r_1\cdot c_2 & r_1\cdot c_3 \\ r_2\cdot c_1 & r_2\cdot c_2 & r_2 \cdot c_3 \\ r_3\cdot c_1 & r_3\cdot c_2 & r_3 \cdot c_3 \end{bmatrix}_{3\times3} $$
+```math
+a\cdot b = \begin{bmatrix} r_1\cdot c_1 & r_1\cdot c_2 & r_1\cdot c_3 \\ r_2\cdot c_1 & r_2\cdot c_2 & r_2 \cdot c_3 \\ r_3\cdot c_1 & r_3\cdot c_2 & r_3 \cdot c_3 \end{bmatrix}_{3\times3} 
+```
 
 Python treats this as a normal multiplication between matrices
