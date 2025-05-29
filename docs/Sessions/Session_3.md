@@ -1,4 +1,4 @@
-[Previous Lecture](Session_2.md)
+[Previous Session](Session_2.md)
 
 [Notebook](/code-files/3_Multiple_Layers.ipynb)
 
@@ -70,4 +70,4 @@ l4 = np.dot(l3, w4.T) + b4
 
 Each layer uses the output of the previous layer as input
 
-[Next Lecture](Session_4.md)
+[Next Session](Session_4.md)

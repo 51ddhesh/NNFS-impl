@@ -1,2 +1,2 @@
-[Previous Lecture](Lecture_3)
+[Previous Session](Lecture_3)
  

@@ -1,4 +1,4 @@
-[Previous Lecture](Session_1.md)
+[Previous Session](Session_1.md)
 Implement the neuron, layer, batch using the numpy dot product
 
 Prerequisites: [Dot Product](../Prerequisites/Dot_Products.md)
@@ -119,4 +119,4 @@ Summarizing,
 outputs = np.dot(weights, inputs) + bias == np.dot(inputs, weights.T) + bias
 ```
 
-[Next Lecture](Session_3.md)
+[Next Session](Session_3.md)

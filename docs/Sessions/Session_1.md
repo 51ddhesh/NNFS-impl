@@ -33,4 +33,4 @@ for i in range(0, len(biases)):
 	outputs[i] += biases[i]
 ```
 
-[Next Lecture](./Session_2.md)
+[Next Session](./Session_2.md)
