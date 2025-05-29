@@ -1,5 +1,5 @@
 [Previous Session](Session_1.md)
-Implement the neuron, layer, batch using the numpy dot product
+## Using the numpy dot product
 
 Prerequisites: [Dot Product](../Prerequisites/Dot_Products.md)
 

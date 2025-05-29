@@ -1,5 +1,7 @@
 [Previous Session](Session_2.md)
 
+## Implementing Multiple Layers
+
 [Notebook](/code-files/3_Multiple_Layers.ipynb)
 
 In the previous section, we calculated the output of a single neuron and a single layer of neuron using numpy.dot
