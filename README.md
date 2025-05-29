@@ -17,3 +17,9 @@ This repository contains implementations of neural networks
 - [Session - 2](/docs/Sessions/Session_2.md) - Implement the neuron, layer and batch using numpy dot product for efficiency. [Notebook](/code-files/2_Using_NumPy.ipynb)
 - [Session - 3](/docs/Sessions/Session_3.md) - Implementing multiple layers. [Notebook](/code-files/3_Multiple_Layers.ipynb)
 - [Session - 4](/docs/Sessions/Session_4.md) - Implementing the Dense Layer Class. [Notebook](/code-files/4_Dense_Layer.ipynb)
+
+## Credits 
+This repository was inspired by the works of Harrison Kinsley (Sentdex) and Daniel Kukieła from their [YouTube playlist](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3) and their work [Neural Networks from Scratch](nnfs.io)
+
+### License 
+Licensed under the MIT License
