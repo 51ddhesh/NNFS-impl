@@ -1,4 +1,4 @@
-[Previous Session](Lecture_3.md)
+[Previous Session](Session_3.md)
 ## The Dense Layer Class
 
 [Notebook](/code-files/4_Dense_Layer.ipynb)
