@@ -4,6 +4,9 @@ Implemented the neuron and a layer of neurons
 
 #### The Neuron
 
+
+
+
 ```python
 inputs = []
 weights = []
