@@ -2,7 +2,7 @@
 
 This repository contains implementations of neural networks
 
-#### Structure
+## Usage
 - [code-files](/code-files/) contain Jupyter Notebooks of the implementations
 - [docs/Sessions](/docs/Sessions/) contain the session wise documentations of the notebooks
 - [docs/Prerequisites](/docs/Prerequisites/) contain prerequisites for few sessions. The files in [docs/Sessions](/docs/Sessions/) contain the link to the prerequisites if that session has one.
