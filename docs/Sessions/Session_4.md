@@ -29,11 +29,15 @@ Now, we implement a dense layer class in Python
 class Dense_Layer():
     def __init__(self, inputs, neurons):
         self.weights = np.random.randn(inputs, neurons)
-        self.biases = np.zeros((1, neurons))
+        self.biases = np.zeros((1, neurons)) 
 
     def forward_pass(self, inputs):
         self.output = np.dot(inputs, self.weights) + self.biases
 ```
+
+`np.zeros((1, neurons))` creates a `numpy.ndarray` of 1 row and `neurons` columns filled with zeroes
+
+
 We create the dataset from <code>nnfs.datasets.spiral_data</code>
 ```python
 import nnfs
@@ -42,11 +46,13 @@ from nnfs.datasets import spiral_data
 X, y = spiral_data(samples=100, classes=3)
 ```
 This creates a sample data with 100 rows and two inputs <code>X</code> and <code>y</code> and 3 features (neurons).
-<br>To test, an object `dense_1` is created. `dense_1` has 2 inputs and 3 features/neurons.
+<br>To test, an object `dense_1` is created. `dense_1` has 2 inputs and 3 **features/neurons/outputs**.
+
 ```python
 dense_1 = Dense_Layer(2, 3)
 dense_1.forward_pass(X) 
 ```
+
 The `forward_pass()` function finds the forward pass and stores it in the `output` (type `numpy.ndarray`).
 
 ```python
@@ -61,3 +67,6 @@ Printing a sample output:
  [ 5.7436468e-04 -7.9355465e-05 -6.8033929e-04]]
 ```
 The first column is the output from the first neuron, the second column is the output from the second neuron and the third column is the output from the third neuron in the layer.
+
+[Next Session](/docs/Sessions/Session_5.md)
+

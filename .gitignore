@@ -1,4 +1,8 @@
 env
 *.pdf
 
+# Formatting
 blank_character.txt
+
+# Testing
+test.ipynb

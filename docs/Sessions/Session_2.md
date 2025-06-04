@@ -1,11 +1,11 @@
+# Using the numpy dot product
 [Previous Session](Session_1.md)
-## Using the numpy dot product
 
 Prerequisites: [Dot Product](../Prerequisites/Dot_Products.md)
 
 [Notebook](/code-files/2_Using_NumPy.ipynb)
 
-### A Neuron using a Dot Product
+## A Neuron using a Dot Product
 
 From [Lecture 1](Lecture_1), 
 ```python
@@ -25,7 +25,7 @@ output = np.dot(weights, input) + bias
 ```
 
 
-### A Layer using a Dot Product
+## A Layer using a Dot Product
 
 Similar to the neuron, an entire layer can be coded using a single line of dot product
 
@@ -47,7 +47,7 @@ outputs = np.dot(weights, inputs) + biases # or np.dot(inputs, weights.T)
 **An important point to note is that <code>np.dot(weights, inputs)</code> is used**
 But it gives the same result as <code>np.dot(inputs, weights.T)</code> where `weights.T` is the transpose of the `weights` matrix.
 
-### Batch Data
+## Batch Data
 
 A batch data refers to a larger quantity of inputs, in a higher dimension
 
