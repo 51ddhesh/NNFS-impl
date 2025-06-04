@@ -20,7 +20,10 @@ This repository contains implementations of neural networks
 - [Session - 5](/docs/Sessions/Session_5.md) - Implementing the Activation Functions and a complete pass through a network (without loss). [Notebook](/code-files/5_Activation_Functions.ipynb)
 
 ## Credits 
-This repository was inspired by the works of Harrison Kinsley (Sentdex) and Daniel Kukieła from their [YouTube playlist](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3) and their work [Neural Networks from Scratch](nnfs.io)
+This repository was inspired by the works of:
+- Harrison Kinsley (Sentdex) and Daniel Kukieła from their [YouTube playlist](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3) and their work [Neural Networks from Scratch](nnfs.io)
+- [Vizuara AI Labs](https://vizuara.ai/) for their [YouTube Channel](https://www.youtube.com/@vizuara) and the [Neural Networks from Scratch Playlist](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSj6tNyn_UadmUeU3Q3oR-hu)
+
 
 ### License 
 Licensed under the MIT License
