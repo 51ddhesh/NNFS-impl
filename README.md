@@ -22,7 +22,7 @@ This repository contains implementations of neural networks
 ## Credits 
 This repository was inspired by the works of:
 - Harrison Kinsley (Sentdex) and Daniel Kukieła from their [YouTube playlist](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3) and their work [Neural Networks from Scratch](nnfs.io)
-- [Vizuara AI Labs](https://vizuara.ai/) for their [YouTube Channel](https://www.youtube.com/@vizuara) and the [Neural Networks from Scratch Playlist](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSj6tNyn_UadmUeU3Q3oR-hu)
+- [Vizuara AI Labs](https://vizuara.ai/), their [YouTube Channel](https://www.youtube.com/@vizuara) and the [Neural Networks from Scratch Playlist](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSj6tNyn_UadmUeU3Q3oR-hu)
 
 
 ### License 
