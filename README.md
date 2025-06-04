@@ -18,6 +18,8 @@ This repository contains implementations of neural networks
 - [Session - 3](/docs/Sessions/Session_3.md) - Implementing multiple layers. [Notebook](/code-files/3_Multiple_Layers.ipynb)
 - [Session - 4](/docs/Sessions/Session_4.md) - Implementing the Dense Layer Class. [Notebook](/code-files/4_Dense_Layer.ipynb)
 - [Session - 5](/docs/Sessions/Session_5.md) - Implementing the Activation Functions and a complete pass through a network (without loss). [Notebook](/code-files/5_Activation_Functions.ipynb)
+- [Session - 6](/docs/Sessions/Session_6.md) - Implementing the loss function. [Notebook](/code-files/6_Loss_Functions.ipynb)
+
 
 ## Credits 
 This repository was inspired by the works of:

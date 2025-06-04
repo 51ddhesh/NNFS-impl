@@ -172,5 +172,5 @@ output:
 Generally, the `ReLU` activation function is used in the `hidden layers` of a network for complex modelling of different functions and input shapes. Since the output demands a probabilistic value, the `Softmax` activation function is used as the data passes through the final layer to get a probabilistic output.
 
 
-
+[Next Session](/docs/Sessions/Session_6.md)
 
