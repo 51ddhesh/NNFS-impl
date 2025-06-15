@@ -290,3 +290,5 @@ This transforms the `numpy.ndarray` as:
 
 The Categorical Cross-Entropy Loss is implemented as a `class` in the [Notebook](/code-files/6_Loss_Functions.ipynb)
 
+
+[Next Session](/docs/Sessions/Session_7.md)
