@@ -1,4 +1,6 @@
-# Neural Networks from Scratch
+# [Deprecated], the work on this project was stopped 
+
+## Neural Networks from Scratch
 
 This repository contains implementations of neural networks
 
